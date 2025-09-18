@@ -24,3 +24,4 @@ print(letras.count('a'))
 print(letras)
 letras.pop()
 print(letras)
+
